@@ -2,8 +2,7 @@
 
 A command-line mini operating system simulator written in **C**, featuring a round-robin process scheduler with multithreading, a fixed-partition memory manager, and a fully in-memory virtual filesystem — all accessible through an interactive shell.
 
-> **Built by me, with AI assistance ofc cause im not that smart
-> The core concepts, design, and intent are mine. Claude helped with debugging and code structure suggestions.
+
 
 ---
 
